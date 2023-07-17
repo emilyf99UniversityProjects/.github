@@ -8,8 +8,8 @@
   is disclosed. 
   
 ## Current Status
-  Projects being Uploaded and Layots Updated
+  Projects being Uploaded and Layouts Updated
   
-  Projects not being worked on. 
+  Projects not being worked on or updated. 
   
 
